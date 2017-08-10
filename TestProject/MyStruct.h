@@ -5,4 +5,5 @@ struct MyStruct
 	double hp;
 	short mp;
 	char name;
+	char name3;
 };
